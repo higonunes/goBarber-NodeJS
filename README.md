@@ -1,4 +1,6 @@
-# InitialProjectNodeJS
+# goBarber-NodeJS
+
+Back-end da aplicação goBarber.
 
 - NodeJS
 
