@@ -1,6 +1,6 @@
 # goBarber-NodeJS
 
-Backend da aplicação de agendamentos de horário para um fornecedor de serviços (barbeiro)
+Backend da aplicação de agendamento de horário para um fornecedor de serviços (barbeiro)
 
 ## Back-end da aplicação goBarber.
 - NodeJS
